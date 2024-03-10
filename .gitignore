@@ -1,7 +1,14 @@
 # Jupyter-notebook
- .ipynb_checkpoints
+.ipynb_checkpoints
 
-# dataset files
+# Dataset files
 *.csv
 *.xlsx
 *.pqt
+data
+
+# PyCharm
+.idea
+
+# Byte-compiled
+__pycache__/
