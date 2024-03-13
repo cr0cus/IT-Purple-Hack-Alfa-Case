@@ -1,6 +1,6 @@
 import purple.preprocessing.load_data as load_data
 import purple.ml.fc as fc
-
+#privet zaebal
 import pandas as pd
 # from sklearn.preprocessing import LabelEncoder
 # from sklearn.neural_network import MLPClassifier
