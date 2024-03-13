@@ -6,6 +6,8 @@ import pandas as pd
 # from sklearn.neural_network import MLPClassifier
 import tensorflow as tf
 
+print("Hello, Kitty!")
+
 pd.options.display.max_rows = 100
 
 train_df = pd.read_parquet("data/train_data_modefilled.pqt")
